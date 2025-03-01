@@ -8,3 +8,13 @@ The IPL Analysis Project involves exploring and visualizing Indian Premier Leagu
 <a href="https://docs.google.com/spreadsheets/d/1Gk-vyRRAGTtKeM05LzhjTvWgbJZhdQnA/edit?usp=sharing&ouid=113092499772322892053&rtpof=true&sd=true"> dataset 1 </a>
 
 <a href="https://docs.google.com/spreadsheets/d/1AY9gPUCSBvbjc_p2QU-JE8PSXvbr82a0/edit?usp=sharing&ouid=113092499772322892053&rtpof=true&sd=true"> dataset 2 </a>
+
+The IPL Analysis Project likely involves the following tools and technologies:
+
+Power BI – For interactive dashboards and data visualization (since your file is a .pbix file, which is used in Power BI).
+
+SQL – To query and manipulate IPL datasets efficiently.
+
+Excel/CSV – For storing and preprocessing raw IPL data.
+
+PostgreSQL - used as Backend
